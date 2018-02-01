@@ -2,10 +2,10 @@
 <resources tools:ignore="MissingTranslation" xmlns:tools="http://schemas.android.com/tools">
 
     <string name="app_name">Via</string>
-    <string name="action_new_tab">New Tab</string>
-    <string name="action_open_in_new">Open in New Tab</string>
-    <string name="action_save_img">Save Image</string>
-    <string name="action_share">Share</string>
+    <string name="action_new_tab">علامة تبويب جديدة</string>
+    <string name="action_open_in_new">فتح في علامة تبويب جديدة</string>
+    <string name="action_save_img">حفظ الصورة</string>
+    <string name="action_share">مشاركة</string>
     <string name="action_history">History</string>
     <string name="action_bookmarks">Bookmarks</string>
     <string name="action_screenshot">Screenshot</string>
